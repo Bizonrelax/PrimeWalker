@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"PrimeWalkerGUI","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"PrimeWalkerGUI","l":"PrimeWalkerGUI()","u":"%3Cinit%3E()"}];updateSearchResults();
